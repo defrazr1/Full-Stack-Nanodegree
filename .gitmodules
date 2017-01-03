@@ -1,6 +1,6 @@
 [submodule "Movie-Trailer-Website"]
-       path = Movie-Trailer-Website
-       url = https://github.com/defrazr1/Movie-Trailer-Website
+	path = Movie-Trailer-Website
+	url = https://github.com/defrazr1/Movie-Trailer-Website
 [submodule "Movie-Trailer-Website/Movie-Trailer-Website"]
 	path = Movie-Trailer-Website/Movie-Trailer-Website
 	url = https://github.com/defrazr1/Movie-Trailer-Website
