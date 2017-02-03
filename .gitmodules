@@ -7,3 +7,6 @@
 [submodule "Portfolio"]
 	path = Portfolio
 	url = https://github.com/defrazr1/Portfolio.git
+[submodule "Multi-User-Blog"]
+	path = Multi-User-Blog
+	url = https://github.com/defrazr1/Multi-User-Blog.git
