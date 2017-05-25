@@ -4,3 +4,6 @@
 [submodule "Portfolio"]
 	path = Portfolio
 	url = https://github.com/defrazr1/Portfolio.git
+[submodule "Developer-Tools"]
+	path = Developer-Tools
+	url = /Developer-Tools/
