@@ -7,3 +7,6 @@
 [submodule "Developer-Tools"]
 	path = Developer-Tools
 	url = https://github.com/defrazr1/Developer-Tools.git
+[submodule "Virtual-Machine"]
+	path = fullstack-nanodegree-vm
+	url = https://github.com/defrazr1/fullstack-nanodegree-vm.git
