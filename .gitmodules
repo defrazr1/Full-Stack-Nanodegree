@@ -13,3 +13,6 @@
 [submodule "log-analysis"]
 	path = log-analysis
 	url = https://github.com/defrazr1/log-analysis.git
+[submodule "Framework-Development"]
+	path = Framework-Development
+	url = https://github.com/defrazr1/Framework-Development.git
