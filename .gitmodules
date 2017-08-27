@@ -22,3 +22,6 @@
 [submodule "BackEnd"]
 	path = BackEnd
 	url = https://github.com/defrazr1/BackEnd.git
+[submodule "Item-Catalog"]
+	path = Item-Catalog
+	url = https://github.com/defrazr1/Item-Catalog.git
