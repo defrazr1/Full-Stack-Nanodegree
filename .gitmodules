@@ -10,15 +10,6 @@
 [submodule "log-analysis"]
 	path = log-analysis
 	url = https://github.com/defrazr1/log-analysis.git
-[submodule "Framework-Development"]
-	path = Framework-Development
-	url = https://github.com/defrazr1/Framework-Development.git
-[submodule "oauth"]
-	path = oauth
-	url = https://github.com/defrazr1/OAuth2.0.git
-[submodule "BackEnd"]
-	path = BackEnd
-	url = https://github.com/defrazr1/BackEnd.git
 [submodule "Item-Catalog"]
 	path = Item-Catalog
 	url = https://github.com/defrazr1/Item-Catalog.git
