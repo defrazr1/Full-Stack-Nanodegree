@@ -17,3 +17,7 @@ Demonstrations of web hosting on Heroku and helpful techniques utilizing cookies
 <h2>Log Analysis</h2>
 A reporting tool that captures and analyzes logs from a database.<br>
 Both the webserver and reporting tool will share access to the same database, allowing information to flow from the web server into the report. 
+
+<h2>Item-Catalog</h2>
+This Project is themed as a RPG game shop, where logged in users are craftsmen who can create either Potions, Weapons, or Armor.<br>
+The site allows for viewing of items by guests and permission validation.
